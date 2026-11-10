@@ -1,4 +1,4 @@
 telethon 
-oiogram
+aiogram
 python-dotenv
 pytz
