@@ -1,4 +1,0 @@
-telethon 
-aiogram
-python-dotenv
-pytz
